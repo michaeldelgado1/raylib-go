@@ -5,6 +5,9 @@
 [![Go Report Card](https://goreportcard.com/badge/github.com/gen2brain/raylib-go/raylib)](https://goreportcard.com/report/github.com/gen2brain/raylib-go/raylib)
 [![Examples](https://img.shields.io/badge/learn%20by-examples-0077b3.svg?style=flat-square)](https://github.com/gen2brain/raylib-go/tree/master/examples)
 
+### NOTE!
+This branch is MY main branch. It is updated with my settings and all references are pointing to my repo. The sync branch is where we sync with the original repo.
+
 Golang bindings for [raylib](http://www.raylib.com/), a simple and easy-to-use library to enjoy videogames programming.
 
 raylib C source code is included and compiled together with bindings. Note that the first build can take a few minutes.
