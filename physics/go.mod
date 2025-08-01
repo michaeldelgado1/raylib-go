@@ -1,6 +1,8 @@
-module github.com/gen2brain/raylib-go/physics
+module github.com/michaeldelgado1/raylib-go/physics
 
-go 1.21
+go 1.22.0
+
+toolchain go1.24.4
 
 require github.com/gen2brain/raylib-go/raylib v0.0.0-20241202103652-5d50abe7c65b
 

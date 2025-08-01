@@ -5,7 +5,7 @@ import (
 	"slices"
 	"unsafe"
 
-	"github.com/gen2brain/raylib-go/raylib"
+	"github.com/michaeldelgado1/raylib-go/raylib"
 )
 
 var supportedFileTypes = []string{

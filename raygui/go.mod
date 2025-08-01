@@ -1,4 +1,4 @@
-module github.com/gen2brain/raylib-go/raygui
+module github.com/michaeldelgado1/raylib-go/raygui
 
 go 1.21
 

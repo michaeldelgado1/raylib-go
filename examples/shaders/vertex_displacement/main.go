@@ -22,7 +22,7 @@ import (
 	"os"
 	"path/filepath"
 
-	rl "github.com/gen2brain/raylib-go/raylib"
+	rl "github.com/michaeldelgado1/raylib-go/raylib"
 )
 
 // NOTE: Usage: `PLATFORM_DESKTOP=1 go run .`

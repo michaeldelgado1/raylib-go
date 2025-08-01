@@ -3,7 +3,7 @@ package main
 import (
 	"fmt"
 
-	rl "github.com/gen2brain/raylib-go/raylib"
+	rl "github.com/michaeldelgado1/raylib-go/raylib"
 )
 
 // This is the maximum amount of elements (quads) per batch

@@ -2,13 +2,13 @@ module examples
 
 go 1.21
 
-replace github.com/gen2brain/raylib-go/raylib => ../raylib
+replace github.com/michaeldelgado1/raylib-go/raylib => ../raylib
 
-replace github.com/gen2brain/raylib-go/raygui => ../raygui
+replace github.com/michaeldelgado1/raylib-go/raygui => ../raygui
 
-replace github.com/gen2brain/raylib-go/easings => ../easings
+replace github.com/michaeldelgado1/raylib-go/easings => ../easings
 
-replace github.com/gen2brain/raylib-go/physics => ../physics
+replace github.com/michaeldelgado1/raylib-go/physics => ../physics
 
 require (
 	github.com/gen2brain/raylib-go/easings v0.0.0-00010101000000-000000000000

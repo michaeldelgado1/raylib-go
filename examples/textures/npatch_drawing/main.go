@@ -16,7 +16,7 @@
 ********************************************************************************************/
 package main
 
-import rl "github.com/gen2brain/raylib-go/raylib"
+import rl "github.com/michaeldelgado1/raylib-go/raylib"
 
 const (
 	screenWidth  = 800

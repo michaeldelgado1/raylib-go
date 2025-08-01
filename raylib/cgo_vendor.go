@@ -4,9 +4,9 @@
 package rl
 
 import (
-	_ "github.com/gen2brain/raylib-go/raylib/external"
-	_ "github.com/gen2brain/raylib-go/raylib/external/android/native_app_glue"
-	_ "github.com/gen2brain/raylib-go/raylib/external/glfw/include/GLFW"
-	_ "github.com/gen2brain/raylib-go/raylib/external/glfw/src"
-	_ "github.com/gen2brain/raylib-go/raylib/platforms"
+	_ "github.com/michaeldelgado1/raylib-go/raylib/external"
+	_ "github.com/michaeldelgado1/raylib-go/raylib/external/android/native_app_glue"
+	_ "github.com/michaeldelgado1/raylib-go/raylib/external/glfw/include/GLFW"
+	_ "github.com/michaeldelgado1/raylib-go/raylib/external/glfw/src"
+	_ "github.com/michaeldelgado1/raylib-go/raylib/platforms"
 )

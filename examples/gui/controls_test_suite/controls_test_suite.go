@@ -3,8 +3,8 @@ package main
 import (
 	"fmt"
 
-	gui "github.com/gen2brain/raylib-go/raygui"
-	rl "github.com/gen2brain/raylib-go/raylib"
+	gui "github.com/michaeldelgado1/raylib-go/raygui"
+	rl "github.com/michaeldelgado1/raylib-go/raylib"
 )
 
 /*******************************************************************************************

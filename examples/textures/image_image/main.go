@@ -4,7 +4,7 @@ import (
 	"image/png"
 	"os"
 
-	rl "github.com/gen2brain/raylib-go/raylib"
+	rl "github.com/michaeldelgado1/raylib-go/raylib"
 )
 
 func main() {
