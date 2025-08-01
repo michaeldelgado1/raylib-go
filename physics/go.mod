@@ -4,7 +4,6 @@ go 1.22.0
 
 toolchain go1.24.4
 
-require github.com/gen2brain/raylib-go/raylib v0.0.0-20241202103652-5d50abe7c65b
 
 require (
 	github.com/ebitengine/purego v0.8.1 // indirect
